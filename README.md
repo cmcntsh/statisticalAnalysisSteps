@@ -13,3 +13,4 @@ Resources
 Download the latest template file. The .rtf format should open in Word.
 
 * [Latest Template](https://github.com/cmcntsh/statisticalAnalysisSteps/blob/main/analysisSteps_template_2023-03-20.rtf)
+* <a id="raw-url" href="https://raw.githubusercontent.com/cmcntsh/statisticalAnalysisSteps/main/analysisSteps_template_2023-03-20.rtf">Download FILE</a>
