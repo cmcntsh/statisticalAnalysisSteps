@@ -7,3 +7,9 @@ Overview video (16 min): https://www.youtube.com/watch?v=tTMWse-9uYM
 Resources
 * Word template with APA 7 levels of heading: https://thelearningsciences.com/wp-content/uploads/2020/02/APA-Style-Template-in-Word-7th-Ed..docx
 * Word & Google Doc templates https://libguides.uww.edu/apa/format
+
+## Download
+
+Download the latest template file. The .rtf format should open in Word.
+
+* [Latest Template](https://github.com/cmcntsh/statisticalAnalysisSteps/blob/main/analysisSteps_template_2023-03-20.rtf)
