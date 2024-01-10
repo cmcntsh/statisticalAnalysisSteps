@@ -12,8 +12,9 @@ Resources
 
 Download the latest template file. The .rtf format should open in Word.
 
-* [Latest Template](https://github.com/cmcntsh/blob/main/statisticalAnalysisSteps/analysisSteps_template_2023-03-20.rtf)
-* <a id="raw-url" href="https://raw.githubusercontent.com/cmcntsh/statisticalAnalysisSteps/main/analysisSteps_template_2023-03-20.rtf">Download FILE</a>
-* [click me to download](https://github.com/Schecher1/Minecraft-Server-Creator/blob/master/README.md)
-* [press here](https://cmcntsh.github.io/statisticalAnalysisSteps/analysisSteps_template_2023-03-20.rtf)
-* <a href="https://raw.githubusercontent.com/cmcntsh/statisticalAnalysisSteps/main/analysisSteps_template_2023-03-20.rtf" download="analysisSteps_template_2023-03-20.rtf">download</a>
+* The template files are listed in the main page of the repository. (See above.)
+* Click on the file with the latest date. ![image](https://github.com/cmcntsh/statisticalAnalysisSteps/assets/32034299/02f2de84-f3d8-44e0-96a8-abaa3603b388)
+* The file will open. It looks like a lot of code.
+* Click on the download icon in the top,right corner. ![image](https://github.com/cmcntsh/statisticalAnalysisSteps/assets/32034299/b066c8b4-c790-4fad-8011-fa56f3b36180)
+
+
